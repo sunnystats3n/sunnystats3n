@@ -1,5 +1,18 @@
 ## Hi there 👋
+### Tech Stack
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Governance & Frameworks
+
+![Microsoft Purview](https://img.shields.io/badge/Microsoft%20Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![DAMA--DMBOK2](https://img.shields.io/badge/DAMA--DMBOK2-2E7D32?style=flat-square)
+![OSFI E--23](https://img.shields.io/badge/OSFI%20E--23-8B0000?style=flat-square)
 <!--
 **sunnystats3n/sunnystats3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
